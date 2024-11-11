@@ -15,11 +15,17 @@ const Footer = () => {
           <img src={footer_logo} alt="" />
           <p>
             I am a frontend developer from Addis Ababa, Ethiopia with 1 year
-            experience.
+            experience in companies like Microsoft tesla and Apple.
           </p>
         </div>
         
-        
+        <div className="footer-top-right">
+          <div className="footer-email-input">
+            <img src={user_icon} alt="" />
+            <input type="email" placeholder="Enter your email" />
+          </div>
+          <div className="footer-subscribe">Subscribe</div>
+        </div>
       </div>
       <br />
 
