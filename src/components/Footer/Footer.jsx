@@ -14,18 +14,12 @@ const Footer = () => {
         <div className="footer-top-left">
           <img src={footer_logo} alt="" />
           <p>
-            I am a frontend developer from addis abab, Ethiopia with 1 year
-            exprieance in companies like microsoft tesla and apple.
+            I am a frontend developer from Addis Ababa, Ethiopia with 1 year
+            experience.
           </p>
         </div>
         
-        <div className="footer-top-right">
-          <div className="footer-email-input">
-            <img src={user_icon} alt="" />
-            <input type="email" placeholder="Enter your email" />
-          </div>
-          <div className="footer-subscribe">Subscribe</div>
-        </div>
+        
       </div>
       <br />
 
