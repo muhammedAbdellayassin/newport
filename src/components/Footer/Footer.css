@@ -176,12 +176,12 @@
 
   .footer-email-input {
     padding: 10px;
-    padding-right: 25px;
+    padding-right: 40px;
     gap: 10px;
   }
 
   .footer-subscribe {
-    padding: 10px 15px;
+    padding: 10px 20px;
     font-size: 14px;
   }
 
